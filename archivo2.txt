@@ -1,1 +1,4 @@
 Este es el segundo archivo para la actividad 2 de Entornos de Desarrollo.
+
+Primera modificación.
+Modificamos también este archivo para el paso 3, que quedará reflejado con un nuevo commit.
