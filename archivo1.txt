@@ -1,2 +1,6 @@
 Hola Jesús.
 Este es el primer archivo de prueba para la actividad 2 de Entornos de Desarrollo.
+
+Primera modificación: 
+Creamos la primera modificación para el paso 3. 
+Posteriormente haremos un commit para que quede reflejado.
