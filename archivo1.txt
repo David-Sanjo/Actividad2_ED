@@ -13,4 +13,5 @@ Esta nueva modificación la hacemos desde la rama secundaria "rama_secundaria"
 
 Cuarta modificación:
 Esta modificación la hacemos desde la rama principal para crear un conflicto en la unión
-Seleccionaremos esta modificación como la correcta a la hora de hacer la correción
+Seleccionaremos esta modificación como la correcta a la hora de hacer la corrección
+
