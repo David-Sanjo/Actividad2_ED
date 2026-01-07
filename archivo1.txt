@@ -10,3 +10,7 @@ Hacemos otra modificación solo para hacer otro commit, nada más.
 
 Tercera modificación:
 Esta nueva modificación la hacemos desde la rama secundaria "rama_secundaria"
+
+Cuarta modificación:
+Esta modificación la hacemos desde la rama principal para crear un conflicto en la unión
+Seleccionaremos esta modificación como la correcta a la hora de hacer la correción
